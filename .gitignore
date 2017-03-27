@@ -5,6 +5,6 @@ systemjs.config.extras.js
 npm-debug.log
 src/app/*/*.js
 src/app/*/*.map
-src/app/**.js
-src/app/**.map
+src/app/*.js
+src/app/*.map
 tslint.json
