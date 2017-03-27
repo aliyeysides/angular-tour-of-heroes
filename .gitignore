@@ -1,0 +1,4 @@
+node_modules
+.vscode
+system-config.js*
+npm-debug.log
