@@ -1,4 +1,8 @@
-node_modules
-.vscode
-system-config.js*
+node_modules/
+.vscode/
+systemjs.config.js
+systemjs.config.extras.js
 npm-debug.log
+app/**/*.js
+app/**/*.map
+tslint.json
