@@ -3,6 +3,8 @@ node_modules/
 systemjs.config.js
 systemjs.config.extras.js
 npm-debug.log
-app/**/*.js
-app/**/*.map
+src/app/**/*.js
+src/app/**/*.map
+src/app/*.js
+src/app/*.map
 tslint.json
